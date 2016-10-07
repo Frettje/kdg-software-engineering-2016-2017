@@ -75,8 +75,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Neve Dennis
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: dennis.neve@student.kdg.be
+	- github: https://github.com/Frettje/software-engineering-oplossingen.git
 
 - Roefs Steyn
 	- e-mailadres: naam@student.kdg.be
