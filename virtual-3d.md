@@ -3,8 +3,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bauwens Stefan
-	- e-mailadres: stefan.bauwens@student.kdg.be
-	- github: https://github.com/StefanBauwens/software-engineering-oplossingen
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Bellekens Michael
 	- e-mailadres: naam@student.kdg.be
@@ -23,8 +23,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - De Meyer Sam
-	- e-mailadres: sam.demeyer@student.kdg.be
-	- github: https://github.com/samdemeyer/SoftwareEngineeringOpdrachten.git
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Demulder Joppe
 	- e-mailadres: naam@student.kdg.be
@@ -63,8 +63,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Leurs Filip
-	- e-mailadres: filip.leurs@student.kdg.be
-	- github: https://github.com/FilipLeurs/software-engineering-oplossingen.git
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Mijnendonckx Billy
 	- e-mailadres: billy.mijnendonckx@student.kdg.be
@@ -75,8 +75,8 @@
 	- github: https://github.com/Borilium/software-engineering-oplossingen.git
 
 - Neve Dennis
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: dennis.neve@student.kdg.be
+	- github: https://github.com/Frettje/software-engineering-oplossingen.git
 
 - Roefs Steyn
 	- e-mailadres: naam@student.kdg.be
@@ -91,8 +91,8 @@
 	- github: https://github.com/jordenvb/software-engineering-oplossingen.git
 
 - Van den Eynde Kilian
-	- e-mailadres: kilian.vandeneynde@student.kdg.be
-	- github: https://github.com/kilianvde/softwareopdrachten
+	- e-mailadres: naam@student.kdg.be
+	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Van Flieberge Mathieu
 	- e-mailadres: naam@student.kdg.be
